@@ -37,3 +37,5 @@ console.log(age > 18 && age < 60); // true
 console.log(age < 18 || age > 20); // true
 
 console.log(!(age > 18)); // false
+
+
